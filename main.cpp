@@ -1,9 +1,7 @@
 //Author: Mr Peeyush Prajapat
 /*
 * This is a cpp file including all the topics which I understand in c++
-* They are:
-* variables
-* namespaces
+* 
 *
 */
 
